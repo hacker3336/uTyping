@@ -1,5 +1,5 @@
 # uTyping
-uTyping
+uTyping - Tez yozish uchun qulay platforma.
 
 
 
